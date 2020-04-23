@@ -4,7 +4,7 @@
   "description": "Midi generator",
   "main": "index.js",
   "repository": "https://github.com/masosky/midi.git",
-  "author": "Xavier Mas <xavier@relevanzz.com>",
+  "author": "Xavier Mas Leszkiewicz <xavier.mas.le@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@types/node": "^13.13.2",
