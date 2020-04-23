@@ -1,0 +1,17 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "description": "Midi generator",
+  "main": "index.js",
+  "repository": "https://github.com/masosky/midi.git",
+  "author": "Xavier Mas <xavier@relevanzz.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.13.2",
+    "midi-file": "^1.1.2",
+    "yargs": "^15.3.1"
+  },
+  "scripts": {
+    "start": "tsc && node .dist/index.js"
+  }
+}
